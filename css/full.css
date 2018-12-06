@@ -80,7 +80,8 @@ body {
 	.centeredContent {
 
 		padding: 40px 15px 40px 15px;
-
+		font-size: 24px;
+		width: 300px;
 	}
 
 }
