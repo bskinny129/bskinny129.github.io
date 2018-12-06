@@ -76,14 +76,14 @@ body {
 @media (max-width: 470px) {
 
 	.centerDiv{
-		height: 450px;
+		height: 480px;
     	margin-right: 10%;
 
 	}
 
 	.centeredContent {
 
-		padding: 40px 15px 40px 15px;
+		padding: 25px 10px 25px 10px;
 		font-size: 24px;
 		width: 270px;
 	}
