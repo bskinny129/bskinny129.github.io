@@ -61,6 +61,7 @@ body {
 	padding: 40px 15px 40px 40px;
 	border-radius: 15px;
 	max-width: 400px;
+	min-width: 295px;
 
 }
 
@@ -70,13 +71,12 @@ body {
 	font-family: 'Dr Sugiyama', cursive;
 	font-size: 32px;
 
-
 }
 
 @media (max-width: 470px) {
 
 	.centerDiv{
-		height: 300px;
+		height: 450px;
     	margin-right: 10%;
 
 	}
